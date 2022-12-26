@@ -3,6 +3,18 @@
 }
 
 h1{
-  font-size: 45px;
+  font-size: 45px; 
 }
 
+#shape {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    display: none;
+    position: relative;
+    
+}
+
+.bold {
+    font-weight: bold;
+}
